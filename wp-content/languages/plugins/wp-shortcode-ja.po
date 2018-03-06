@@ -1,0 +1,357 @@
+# Translation of Plugins - WP Shortcode by MyThemeShop - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Shortcode by MyThemeShop - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-29 12:44:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Shortcode by MyThemeShop - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "MyThemeShop"
+msgstr "MyThemeShop"
+
+#. Description of the plugin/theme
+msgid "With the vast array of shortcodes, you can quickly and easily build content for your posts and pages and turbocharge your blogging experience."
+msgstr "豊富なショートコードで、投稿やページのコンテンツをすばやく簡単に構築し、ブログ体験をパワーアップできます。"
+
+#. #-#-#-#-#  tmp-wp-shortcode.pot (WP Shortcode by MyThemeShop 1.4.2) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-shortcode.pot (WP Shortcode by MyThemeShop 1.4.2) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://mythemeshop.com/"
+msgstr "http://mythemeshop.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Shortcode by MyThemeShop"
+msgstr "WP Shortcode by MyThemeShop"
+
+#: wp-shortcode.php:399
+msgid "Back to Top"
+msgstr "トップへ戻る"
+
+#: wp-shortcode.php:383
+msgid "Toggle Title"
+msgstr "タイトルを切り替え"
+
+#: tinymce/shortcodes.php:358
+msgid "Add a tooltip that appears on hover. Possible values for direction(Cardinal) of bubble: nw | n | ne | w | e | sw | s | se"
+msgstr "マウスオーバーしたときに表示されるヒントを追加します。吹き出しの方向は以下の値から選択できます: nw | n | ne | w | e | sw | s | se"
+
+#: tinymce/shortcodes.php:357
+msgid "Trigger text"
+msgstr "トリガーテキスト"
+
+#: tinymce/shortcodes.php:356
+msgid "Tooltip"
+msgstr "ヒント"
+
+#: tinymce/shortcodes.php:344
+msgid "Five Sixth (Last)"
+msgstr "5/6 (最後)"
+
+#: tinymce/shortcodes.php:336
+msgid "Five Sixth"
+msgstr "5/6"
+
+#: tinymce/shortcodes.php:328
+msgid "One Sixth (Last)"
+msgstr "1/6 (最後)"
+
+#: tinymce/shortcodes.php:320
+msgid "One Sixth"
+msgstr "1/6"
+
+#: tinymce/shortcodes.php:312
+msgid "Four Fifth (Last)"
+msgstr "4/5 (最後)"
+
+#: tinymce/shortcodes.php:304
+msgid "Four Fifth"
+msgstr "4/5"
+
+#: tinymce/shortcodes.php:296
+msgid "Three Fifth (Last)"
+msgstr "3/5 (最後)"
+
+#: tinymce/shortcodes.php:288
+msgid "Three Fifth"
+msgstr "3/5"
+
+#: tinymce/shortcodes.php:280
+msgid "Two Fifth (Last)"
+msgstr "2/5 (最後)"
+
+#: tinymce/shortcodes.php:272
+msgid "Two Fifth"
+msgstr "2/5"
+
+#: tinymce/shortcodes.php:264
+msgid "One Fifth (Last)"
+msgstr "1/5 (最後)"
+
+#: tinymce/shortcodes.php:256
+msgid "One Fifth"
+msgstr "1/5"
+
+#: tinymce/shortcodes.php:248
+msgid "Three Fourth (Last)"
+msgstr "3/4 (最後)"
+
+#: tinymce/shortcodes.php:240
+msgid "Three Fourth"
+msgstr "3/4"
+
+#: tinymce/shortcodes.php:232
+msgid "One Fourth (Last)"
+msgstr "1/4 (最後)"
+
+#: tinymce/shortcodes.php:224
+msgid "One Fourth"
+msgstr "1/4"
+
+#: tinymce/shortcodes.php:216
+msgid "One Half (Last)"
+msgstr "1/2 (最後)"
+
+#: tinymce/shortcodes.php:208
+msgid "One Half"
+msgstr "1/2"
+
+#: tinymce/shortcodes.php:200
+msgid "Two Third (Last)"
+msgstr "2/3 (最後)"
+
+#: tinymce/shortcodes.php:192
+msgid "Two Third"
+msgstr "2/3"
+
+#: tinymce/shortcodes.php:184
+msgid "One Third (Last)"
+msgstr "1/3 (最後)"
+
+#: tinymce/shortcodes.php:179 tinymce/shortcodes.php:187
+#: tinymce/shortcodes.php:195 tinymce/shortcodes.php:203
+#: tinymce/shortcodes.php:211 tinymce/shortcodes.php:219
+#: tinymce/shortcodes.php:227 tinymce/shortcodes.php:235
+#: tinymce/shortcodes.php:243 tinymce/shortcodes.php:251
+#: tinymce/shortcodes.php:259 tinymce/shortcodes.php:267
+#: tinymce/shortcodes.php:275 tinymce/shortcodes.php:283
+#: tinymce/shortcodes.php:291 tinymce/shortcodes.php:299
+#: tinymce/shortcodes.php:307 tinymce/shortcodes.php:315
+#: tinymce/shortcodes.php:323 tinymce/shortcodes.php:331
+#: tinymce/shortcodes.php:339 tinymce/shortcodes.php:347
+msgid "Use column shortcodes in conjunction with their <em>(Last)</em> version, eg. <br /><strong>One Third + One Third + One Third (Last)</strong>"
+msgstr "カラムショートコードは「(最後)」がついたものと一緒に使ってください。例:<br /><strong>1/3 + 1/3 + 1/3 (最後)</strong>"
+
+#: tinymce/shortcodes.php:177 tinymce/shortcodes.php:185
+#: tinymce/shortcodes.php:193 tinymce/shortcodes.php:201
+#: tinymce/shortcodes.php:209 tinymce/shortcodes.php:217
+#: tinymce/shortcodes.php:225 tinymce/shortcodes.php:233
+#: tinymce/shortcodes.php:241 tinymce/shortcodes.php:249
+#: tinymce/shortcodes.php:257 tinymce/shortcodes.php:265
+#: tinymce/shortcodes.php:273 tinymce/shortcodes.php:281
+#: tinymce/shortcodes.php:289 tinymce/shortcodes.php:297
+#: tinymce/shortcodes.php:305 tinymce/shortcodes.php:313
+#: tinymce/shortcodes.php:321 tinymce/shortcodes.php:329
+#: tinymce/shortcodes.php:337 tinymce/shortcodes.php:345
+msgid "Column content"
+msgstr "カラムコンテンツ"
+
+#: tinymce/shortcodes.php:176
+msgid "One Third"
+msgstr "1/3"
+
+#: tinymce/shortcodes.php:168
+msgid "Clear shortcode can be used to clear an element of its neighbors, no floating elements are allowed on the left or the right side."
+msgstr "「クリア」ショートコードは周りの要素をクリアするのに使えます。左または右に要素がフロートしなくなります。"
+
+#: tinymce/shortcodes.php:166
+msgid "Clear"
+msgstr "クリア"
+
+#: tinymce/shortcodes.php:161
+msgid "Divider with an anchor link to top of page."
+msgstr "ページ上部へのアンカーリンクがついた区切り線。"
+
+#: tinymce/shortcodes.php:155
+msgid "Simple horizontal divider."
+msgstr "シンプルな水平方向の区切り線。"
+
+#: tinymce/shortcodes.php:149
+msgid "Display content in tabbed form."
+msgstr "コンテンツをタブ形式で表示。"
+
+#: tinymce/shortcodes.php:147
+msgid ""
+"[tab title=&quot;Tab 1 Title&quot;]Insert tab 1 content here[/tab]\n"
+"[tab title=&quot;Tab 2 Title&quot;]Insert tab 2 content here[/tab]\n"
+"[tab title=&quot;Tab 3 Title&quot;]Insert tab 3 content here[/tab]"
+msgstr ""
+"[tab title=&quot;タブ 1 タイトル&quot;]タブ 1 のコンテンツをここに挿入[/tab]\n"
+"[tab title=&quot;タブ 2 タイトル&quot;]タブ 2 のコンテンツをここに挿入[/tab]\n"
+"[tab title=&quot;タブ 3 タイトル&quot;]タブ 3 のコンテンツをここに挿入[/tab]"
+
+#: tinymce/shortcodes.php:146
+msgid "Tabs"
+msgstr "タブ"
+
+#: tinymce/shortcodes.php:141
+msgid "Content will be shown after clicking on the toggle title."
+msgstr "コンテンツはタイトル切り替えをクリックした後に表示されます。"
+
+#: tinymce/shortcodes.php:139
+msgid "Insert Content Here"
+msgstr "ここにコンテンツを挿入"
+
+#: tinymce/shortcodes.php:138
+msgid "Toggle"
+msgstr "切り替え"
+
+#: tinymce/shortcodes.php:131
+msgid "Embed a Google Map. Insert address or GPS location."
+msgstr "Google マップを埋め込みます。住所や GPL による位置情報を挿入します。"
+
+#: tinymce/shortcodes.php:129
+msgid "Google Map"
+msgstr "Google マップ"
+
+#: tinymce/shortcodes.php:119
+msgid "Embed a Vimeo Video."
+msgstr "Vimeo 動画を埋め込む。"
+
+#: tinymce/shortcodes.php:117
+msgid "Vimeo Video"
+msgstr "Vimeo 動画"
+
+#: tinymce/shortcodes.php:107
+msgid "Embed a Youtube Video"
+msgstr "YouTube 動画を埋め込む"
+
+#: tinymce/shortcodes.php:105
+msgid "YouTube Video"
+msgstr "YouTube 動画"
+
+#: tinymce/shortcodes.php:95
+msgid "Display warning or error message."
+msgstr "警告またはエラーメッセージを表示。"
+
+#: tinymce/shortcodes.php:94
+msgid "Warning text"
+msgstr "警告テキスト"
+
+#: tinymce/shortcodes.php:93
+msgid "Alert Warning"
+msgstr "警告をアラート"
+
+#: tinymce/shortcodes.php:88
+msgid "Display a success message."
+msgstr "成功メッセージを表示。"
+
+#: tinymce/shortcodes.php:87
+msgid "Success text"
+msgstr "成功テキスト"
+
+#: tinymce/shortcodes.php:86
+msgid "Alert Success"
+msgstr "成功をアラート"
+
+#: tinymce/shortcodes.php:81
+msgid "Display an announcement."
+msgstr "告知を表示。"
+
+#: tinymce/shortcodes.php:80
+msgid "Announce text"
+msgstr "告知テキスト"
+
+#: tinymce/shortcodes.php:79
+msgid "Alert Announce"
+msgstr "告知をアラート"
+
+#: tinymce/shortcodes.php:74
+msgid "Display a note."
+msgstr "注意書きを表示。"
+
+#: tinymce/shortcodes.php:73
+msgid "Note text"
+msgstr "注釈テキスト"
+
+#: tinymce/shortcodes.php:72
+msgid "Alert Note"
+msgstr "注釈をアラート"
+
+#: tinymce/shortcodes.php:67
+msgid "Inserts a white button. Set target to <strong>_blank</strong> to open link in a new window."
+msgstr "白のボタンを挿入します。新規ウィンドウで開くにはターゲットを <strong>_blank</strong> に設定してください。"
+
+#: tinymce/shortcodes.php:65
+msgid "White Button"
+msgstr "白のボタン"
+
+#: tinymce/shortcodes.php:56
+msgid "Inserts a red button. Set target to <strong>_blank</strong> to open link in a new window."
+msgstr "赤のボタンを挿入します。新規ウィンドウで開くにはターゲットを <strong>_blank</strong> に設定してください。"
+
+#: tinymce/shortcodes.php:54
+msgid "Red Button"
+msgstr "赤のボタン"
+
+#: tinymce/shortcodes.php:45
+msgid "Inserts a yellow button. Set target to <strong>_blank</strong> to open link in a new window."
+msgstr "黄色のボタンを挿入します。新規ウィンドウで開くにはターゲットを <strong>_blank</strong> に設定してください。"
+
+#: tinymce/shortcodes.php:43
+msgid "Yellow Button"
+msgstr "黄色のボタン"
+
+#: tinymce/shortcodes.php:34
+msgid "Inserts a green button. Set target to <strong>_blank</strong> to open link in a new window."
+msgstr "緑のボタンを挿入します。新規ウィンドウで開くにはターゲットを <strong>_blank</strong> に設定してください。"
+
+#: tinymce/shortcodes.php:32
+msgid "Green Button"
+msgstr "緑のボタン"
+
+#: tinymce/shortcodes.php:23
+msgid "Inserts a blue button. Set target to <strong>_blank</strong> to open link in a new window."
+msgstr "青のボタンを挿入します。新規ウィンドウで開くにはターゲットを <strong>_blank</strong> に設定してください。"
+
+#: tinymce/shortcodes.php:21
+msgid "Blue Button"
+msgstr "青のボタン"
+
+#: tinymce/shortcodes.php:12
+msgid "Inserts a brown button. Set target to <strong>_blank</strong> to open link in a new window."
+msgstr "茶色のボタンを挿入します。新規ウィンドウで開くにはターゲットを <strong>_blank</strong> に設定してください。"
+
+#: tinymce/shortcodes.php:11 tinymce/shortcodes.php:22
+#: tinymce/shortcodes.php:33 tinymce/shortcodes.php:44
+#: tinymce/shortcodes.php:55 tinymce/shortcodes.php:66
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: tinymce/shortcodes.php:10
+msgid "Brown Button"
+msgstr "茶色のボタン"
+
+#: tinymce/editor_plugin.php:72
+msgid "Insert"
+msgstr "挿入"
+
+#: tinymce/editor_plugin.php:68
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tinymce/editor_plugin.php:31
+msgid "Select Shortcode"
+msgstr "ショートコードを選択"
+
+#: tinymce/editor_plugin.php:6
+msgid "You are not allowed to be here"
+msgstr "こちらにアクセスする権限がありません。"

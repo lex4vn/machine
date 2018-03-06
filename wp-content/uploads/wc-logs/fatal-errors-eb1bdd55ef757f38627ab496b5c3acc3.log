@@ -1,0 +1,8 @@
+2018-03-01T10:07:44+00:00 CRITICAL Call to a member function get_url() on null
+
+2018-03-01T11:40:57+00:00 CRITICAL Maximum execution time of 10000 seconds exceeded
+
+2018-03-02T20:35:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-02T20:36:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
